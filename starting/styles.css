@@ -1,0 +1,21 @@
+.palette {
+  display: flex;
+}
+.palette div {
+  height: 50px;
+  width: 100px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+#maincolor {
+  background-color: #03719e;
+}
+
+#secondary {
+  background-color: #fdd017;
+}
+
+#othercolor {
+  background-color: #2e015f;
+}
